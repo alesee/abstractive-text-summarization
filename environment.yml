@@ -80,7 +80,7 @@ dependencies:
 - statsmodels
 - testpath
 - tk
-- tensorboard
+- tensorflow
 - tornado<5
 - tqdm
 - traitlets
