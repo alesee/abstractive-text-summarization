@@ -11,6 +11,7 @@ Requirements
 `conda env create -f environment-cpu.yml`  --cpu
 
 2. Activate environment
+
 `source activate abs-sum` -- gpu
 
 `source activate abs-sum-cpu` -- cpu
