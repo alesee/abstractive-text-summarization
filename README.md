@@ -59,5 +59,5 @@ To-Do
 
 Training & Validation Loss
 ---
-![alt text](/img/tensor_viz)
+![alt text](/imgs/tensor_viz)
 
