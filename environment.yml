@@ -80,6 +80,7 @@ dependencies:
 - statsmodels
 - testpath
 - tk
+- tensorflow
 - tornado<5
 - tqdm
 - traitlets
@@ -88,7 +89,7 @@ dependencies:
 - widgetsnbextension
 - xz
 - zeromq
-- pytorch<0.4
+- pytorch>=0.4
 - bcolz
 - prompt_toolkit
 - pytest
