@@ -10,11 +10,16 @@ Requirements
 
 `conda env create -f environment-cpu.yml`  --cpu
 
-2. Install dependencies (PyTorch, Fastai, etc) via:
+2. Activate environment
+`source activate abs-sum` -- gpu
+
+`source activate abs-sum-cpu` -- cpu
+
+3. Install dependencies (PyTorch, Fastai, etc) via:
 
 `pip install -r requirements.txt`
 
-3. Download `spacy` english module
+4. Download `spacy` english module
 
 `python -m spacy download en`
 
