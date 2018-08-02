@@ -1,4 +1,4 @@
-name: fastai-cpu
+name: test-cpu
 channels:
 - fastai
 - pytorch
@@ -77,6 +77,7 @@ dependencies:
 - six
 - sqlite
 - statsmodels
+- tensorboard
 - testpath
 - tk
 - tornado<5
@@ -87,7 +88,7 @@ dependencies:
 - widgetsnbextension
 - xz
 - zeromq
-- pytorch<0.4
+- pytorch>=0.4
 - bcolz
 - prompt_toolkit
 - pytest
