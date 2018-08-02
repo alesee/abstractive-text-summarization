@@ -56,3 +56,7 @@ To-Do
 * Implement sentence level attention 
 * Implement beam search during inference
 * implement rouge evaluation
+
+Training & Validation Loss
+---
+(/img/tensor_viz)
