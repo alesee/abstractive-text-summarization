@@ -1,4 +1,4 @@
-name: test-cpu
+name: abs-sum-cpu
 channels:
 - fastai
 - pytorch
