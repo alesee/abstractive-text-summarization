@@ -25,7 +25,7 @@ The dataset used is a subset of the gigaword dataset and can be found [here](htt
 
 It contains 3,803,955 parallel source & target examples for training and 189,649 examples for validation.
 
-After downloading, we created article-title pairs, saved in tabular datset format (.csv) and extracted a sample subset (80,000 for training & 20,000 for validation). This data preparation can be found [here]().
+After downloading, we created article-title pairs, saved in tabular datset format (.csv) and extracted a sample subset (80,000 for training & 20,000 for validation). This data preparation can be found [here](/data-preparation.ipynb).
 
 An example article-title pair looks like this:
 
