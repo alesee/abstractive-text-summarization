@@ -1,4 +1,4 @@
-name: fastai
+name: abs-sum
 channels:
 - fastai
 - pytorch
@@ -80,7 +80,7 @@ dependencies:
 - statsmodels
 - testpath
 - tk
-- tensorflow
+- tensorboard
 - tornado<5
 - tqdm
 - traitlets
