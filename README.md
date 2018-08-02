@@ -1,6 +1,6 @@
 # abstractive-text-summarization
 
-This repository and [notebook](/abstractive-text-summ.ipynb) contains code for in-progress implementation of the [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond](https://arxiv.org/abs/1602.06023) paper.
+This repository and [notebook](/abstractive-text-summ.ipynb) contains code for in-progress implementation/experiment of the [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond](https://arxiv.org/abs/1602.06023) paper.
 
 Requirements
 ---
@@ -10,11 +10,17 @@ Requirements
 
 `conda env create -f environment-cpu.yml`  --cpu
 
-2. Install dependencies (PyTorch, Fastai, etc) via:
+2. Activate environment
+
+`source activate abs-sum` -- gpu
+
+`source activate abs-sum-cpu` -- cpu
+
+3. Install dependencies (PyTorch, Fastai, etc) via:
 
 `pip install -r requirements.txt`
 
-3. Download `spacy` english module
+4. Download `spacy` english module
 
 `python -m spacy download en`
 

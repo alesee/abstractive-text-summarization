@@ -1,4 +1,4 @@
-name: test-cpu
+name: abs-sum-cpu
 channels:
 - fastai
 - pytorch
@@ -77,7 +77,7 @@ dependencies:
 - six
 - sqlite
 - statsmodels
-- tensorboard
+- tensorflow
 - testpath
 - tk
 - tornado<5
