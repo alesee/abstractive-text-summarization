@@ -1,3 +1,2 @@
 git+https://github.com/fastai/fastai.git
 git+https://github.com/lanpa/tensorboard-pytorch
-tensorflow
