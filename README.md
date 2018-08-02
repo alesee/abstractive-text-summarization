@@ -1,6 +1,6 @@
 # abstractive-text-summarization
 
-This repository/[notebook](/abstractive-text-summ.ipynb) contains code for in-progress implementation of the [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond](https://arxiv.org/abs/1602.06023) paper.
+This repository / [notebook](/abstractive-text-summ.ipynb) contains code for in-progress implementation of the [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond](https://arxiv.org/abs/1602.06023) paper.
 
 Requirements
 ---
