@@ -63,7 +63,7 @@ To-Do
 * Implement beam search during inference
 * implement rouge evaluation
 
-Experiments Training & Validation Loss
+Experiment Training & Validation Loss
 ---
 ![alt text](/imgs/tensor_viz.png)
 
