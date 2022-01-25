@@ -2,3 +2,5 @@
 .gitignore/
 .ipynb_checkpoints/
 abstractive-text-summarization-Copy1.ipynb
+data/*
+.DS_Store
